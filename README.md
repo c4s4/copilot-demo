@@ -14,4 +14,4 @@ Code for SyncedString was done in a minute. Let's add tests:
 - Write code `package main`
 - Type TAB until Copilot has written `TestSyncedBool` and `TestSyncedString`
 
-See result checking out tag *end* and discuss.
+You can see expected result checking out tag *end* and discuss.
