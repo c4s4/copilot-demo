@@ -6,7 +6,7 @@ To play demo:
 - Go at the end of *sync.go* file
 - Type following comment: `// SyncedString is synchronized string`
 - Type TAB until Copilot has written `SyncedString` structure, `Get` and `Set` functions
-- Type following comment: `// Append string`
+- Type following comment: `// Append string value`
 
 Code for SyncedString was done in a minute. Let's add tests:
 
