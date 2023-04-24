@@ -23,5 +23,6 @@ To generate code with ChatGPT:
 - You can call server with: `echo "test" | nc 127.0.0.1 8080`
 - To get UDP version: `Using UDP now`
 - You can call server with: `echo "test" | nc -4u -w1 127.0.0.1 8080`
+- You can ask for comments in code typing in prompt: `Add comments`
 
 Discussion: TCP server is broken, why?
