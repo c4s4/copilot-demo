@@ -15,3 +15,13 @@ Code for SyncedString was done in a minute. Let's add tests:
 - Type TAB until Copilot has written `TestSyncedBool` and `TestSyncedString`
 
 You can see expected result checking out tag *end* and discuss.
+
+To generate code with ChatGPT:
+
+- Launch ChatGPT
+- Enter following prompt: `Write a TCP server in Go that prints requests on command line`
+- You can call server with: `echo "test" | nc 127.0.0.1 8080`
+- To get UDP version: `Using UDP now`
+- You can call server with: `echo "test" | nc -4u -w1 127.0.0.1 8080`
+
+Discussion: TCP server is broken, why?
